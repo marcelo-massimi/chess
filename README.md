@@ -7,7 +7,7 @@ The goal of this project is to create a high-quality automated chessboard that i
 - Open source design plans, software, and hardware schematics
 - Affordable and accessible to a wide range of users
 - Customizable for personal preferences or specific needs
- -Community-driven development and improvement
+- Community-driven development and improvement
 
 ## Regular updates and new features based on user feedback and contributions
 If you're interested in learning more about the open source automated chessboard project, or if you'd like to get involved and contribute to the development effort, be sure to check out the project's website and forums. Whether you're a chess player, a maker, or simply interested in technology, this project offers a unique opportunity to get involved and make a difference.
