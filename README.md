@@ -11,3 +11,9 @@ The goal of this project is to create a high-quality automated chessboard that i
 
 ## Regular updates and new features based on user feedback and contributions
 If you're interested in learning more about the open source automated chessboard project, or if you'd like to get involved and contribute to the development effort, be sure to check out the project's website and forums. Whether you're a chess player, a maker, or simply interested in technology, this project offers a unique opportunity to get involved and make a difference.
+---
+## Software Dependency
+- Arduino development environment
+- Arduino library:
+-- Wire
+-- LiquidCrystal_I2C
