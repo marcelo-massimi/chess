@@ -16,7 +16,7 @@ void setup() {
   pinMode (MOTOR_WHITE_DIR, OUTPUT);
   pinMode (MOTOR_BLACK_STEP, OUTPUT);
   pinMode (MOTOR_BLACK_DIR, OUTPUT);
-  Serial.println("Setup OK")
+  Serial.println("Setup OK");
 }
 
 void loop() {
