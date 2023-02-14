@@ -15,5 +15,5 @@ If you're interested in learning more about the open source automated chessboard
 ## Software Dependency
 - Arduino development environment
 - Arduino library:
--- Wire
--- LiquidCrystal_I2C
+- - Wire
+- - LiquidCrystal_I2C
