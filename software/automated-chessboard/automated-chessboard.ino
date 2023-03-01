@@ -1,5 +1,6 @@
 //***********************************************
 //            AUTOMATIC CHESSBOARD
+// -- ESTAMOS TRABANJANDO EN ESTE @MM
 //***********************************************
 //******************************  INCLUDING FILES
 #include "global.h"
@@ -110,7 +111,7 @@ void loop() {
       }
     break;
   }
-//} bracket eliminado
+//} bracket eliminado @MM
 }
 //***************************************  SWITCH
   boolean button(byte type) {
