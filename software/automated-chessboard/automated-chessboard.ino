@@ -149,7 +149,7 @@ void loop() {
     //  DIRECTION OF THE MOTOR ROTATION
       if (direction == R_L || direction == T_B || direction == RL_TB) digitalWrite(MOTOR_WHITE_DIR, HIGH);
       else digitalWrite(MOTOR_WHITE_DIR, LOW);
-      if (direction == B_T || direction == R_L || direction == RL_BT) digitalWrite(MOTOR_BLACK_DIR, HIGH);
+      if (direction == R_L || direction == B_T || direction == RL_BT) digitalWrite(MOTOR_BLACK_DIR, HIGH);
       else digitalWrite(MOTOR_BLACK_DIR, LOW);
     //  ACTIVE THE MOTORS
       for (int x = 0; x < step_number; x++) {
