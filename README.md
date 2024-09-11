@@ -1,4 +1,4 @@
-# Open Source Automated Chessboard Project
+# Automated Chessboard Project - Open Source
 An **open source automated chessboard project** based on <a href="https://www.instructables.com/Automated-Chessboard/" target="_blank">instructables.com by Greg06</a>. It's a community-driven effort to create a self-contained electronic chessboard that can be used for playing chess. The project is **open source**, meaning that the design plans, software, and hardware schematics are freely available for anyone to use, modify, or contribute to.
 
 The goal of this project is to create a high-quality automated chessboard that is affordable, accessible, and customizable. It aims to bring the benefits of modern technology to the game of chess, while at the same time fostering a community of makers, hobbyists, and chess enthusiasts who can work together to improve and evolve the design.
